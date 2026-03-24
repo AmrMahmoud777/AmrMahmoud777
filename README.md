@@ -13,7 +13,7 @@
 
 ---
 
-                                             ## 👨‍💻 About Me
+## 👨‍💻 About Me
 - 📱 Flutter Developer
 - 🎯 Interested in building real-world mobile apps
 - 🧠 Currently improving my skills in Flutter, APIs, and State Management
@@ -21,7 +21,7 @@
 
 ---
 
-                                           ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 - **Languages:** Dart
 - **Frameworks:** Flutter
 - **Concepts:** OOP, Data Structures, Algorithms
