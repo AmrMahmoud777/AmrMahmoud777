@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Amr Mahmoud
 
-<!--
-**AmrMahmoud777/AmrMahmoud777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter Developer 🚀
 
-Here are some ideas to get you started:
+I am passionate about building real-world mobile applications using Flutter and Dart.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills
+- Flutter & Dart
+- OOP
+- REST APIs
+- Bloc State Management
+- Git & GitHub
+
+---
+
+## 💻 Projects
+- 🛠️ Herfa App (Home Services)
+- 💬 Chat Application
+- 🛒 E-Commerce App
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/amr-mahhmoud-959a932b8
