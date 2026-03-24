@@ -40,7 +40,7 @@
 ## 🎓 Education
 **El Shorouk Academy**  
 Management Information Systems (MIS)  
-Expected Graduation: 2025
+ Graduation Year: 2025
 
 ---
 
