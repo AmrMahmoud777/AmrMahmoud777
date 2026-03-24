@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amr Mahmoud</h1>
-<h3 align="center">Flutter Developer | Building Real-World Apps | Open to Opportunities</h3>
+<h1 align="center">Amr Mahmoud</h1>
+<h3 align="center">Flutter Developer | Building Real-World Apps | Open to Opportunities 🚀</h3>
 
 <p align="center">
   Passionate about building mobile applications using Flutter and Dart
