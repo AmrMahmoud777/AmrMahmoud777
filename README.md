@@ -2,6 +2,12 @@
 <h3 align="center">Flutter Developer | Building Real-World Apps | Open to Opportunities 🚀</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Developer-blue?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Open%20to-Internship-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focused%20on-Mobile%20Apps-black?style=for-the-badge" />
+</p>
+
+<p align="center">
   Passionate about building mobile applications using Flutter and Dart
 </p>
 
@@ -26,21 +32,25 @@
 ---
 
 ## 💼 Projects
-- 🛠️ **Herfa App**  
-  Home services application that helps users request skilled workers easily, with ratings, service coverage, and maps integration.
 
-- 💬 **Chat App**  
-  Real-time chat application focused on messaging, communication experience, and modern UI.
+### 🛠️ Herfa App
+> Home services application that helps users request skilled workers easily, with ratings, service coverage, and maps integration.  
+> **Tech:** Flutter, Dart, Bloc, REST APIs, Google Maps
 
-- 🛒 **E-Commerce App**  
-  Mobile application for displaying and selling products with a simple and clean user experience.
+### 💬 Chat App
+> Real-time chat application focused on messaging, communication experience, and modern UI.  
+> **Tech:** Flutter, Dart
+
+### 🛒 E-Commerce App
+> Mobile application for displaying and selling products with a simple and clean user experience.  
+> **Tech:** Flutter, Dart
 
 ---
 
 ## 🎓 Education
 **El Shorouk Academy**  
 Management Information Systems (MIS)  
- Graduation Year: 2025
+**Expected Graduation:** 2025
 
 ---
 
