@@ -11,6 +11,14 @@
   Passionate about building mobile applications using Flutter and Dart
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmrMahmoud777&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrMahmoud777&layout=compact&theme=tokyonight" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
